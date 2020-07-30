@@ -9,15 +9,16 @@ The first implementation provides a portal for booking slots for vaccination(whe
 2)	Due to strict authentication process it will prevent wastage and also stop black marketing of the vaccine since it will be quite valuable
 3)	Provides an easier way for the government to keep track of the spread status of Corona virus amongst various states of India 
 4)	Prevents crowding at a particular camp
-Link to the first site-    https://vkran.github.io/COVID-PROJ/
+:: Link to the first site-    https://vkran.github.io/COVID-PROJ/
 -------------------------------------------------------------------------------------------------------------------------------------
-
 This idea of booking slots is highly popular and we use it daily without even realizing it. For example, imagine travelling on a train without pre-booking a ticket. It’s going to be quite a risky affair, right? The same will happen if we don’t use slot-booking for other essential activities.
 Think about the fact if we had this system at the time of demonetization. How many man-hours could have been saved. It would have also prevented the inconvenience that was endured by the citizens of India.
 So, we also tried to implement this idea on a small scale which can be used at other places as-well.
 After restoration of our daily routines and reopening of schools and colleges, sports activities will certainly be reduced. In our own college there are hundreds of students who visit the indoor hall daily. How could such a crowd be controlled? Well there also a slot booking window can be used, which will serve the purpose of not letting the place get overcrowded and simplifies the whole process.
-Link to the second site-  https://vaibhavraj1.github.io/SPORTS-COMPLEX-PROJECT/
+:: Link to the second site-  https://vaibhavraj1.github.io/SPORTS-COMPLEX-PROJECT/
+:: Video link -- https://drive.google.com/file/d/1YK2Ge-bBJaY29a0txQVTK18KWghs_jIr/view?usp=drivesdk
 
 Hope you liked our work. Cheers!!!
+
 
 
