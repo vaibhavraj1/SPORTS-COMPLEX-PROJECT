@@ -9,7 +9,7 @@ The first implementation provides a portal for booking slots for vaccination(whe
 2)	Due to strict authentication process it will prevent wastage and also stop black marketing of the vaccine since it will be quite valuable
 3)	Provides an easier way for the government to keep track of the spread status of Corona virus amongst various states of India 
 4)	Prevents crowding at a particular camp
-Link to the first site-    https://vkran.github.io/COVID-PROJ/index.html
+Link to the first site-    https://vkran.github.io/COVID-PROJ/
 -------------------------------------------------------------------------------------------------------------------------------------
 
 This idea of booking slots is highly popular and we use it daily without even realizing it. For example, imagine travelling on a train without pre-booking a ticket. It’s going to be quite a risky affair, right? The same will happen if we don’t use slot-booking for other essential activities.
