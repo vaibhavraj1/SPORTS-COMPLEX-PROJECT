@@ -8,9 +8,9 @@ Think about the fact if we had this system at the time of demonetization. How ma
 
 After restoration of our daily routines and reopening of schools and colleges, sports activities will certainly be reduced. In our own college there are hundreds of students who visit the indoor hall daily. How could such a crowd be controlled? Well a slot booking window can be used, which will serve the purpose of not letting the place get overcrowded and simplifies the whole process.
 
-:: Link to my site-  https://vaibhavraj1.github.io/SPORTS-COMPLEX-PROJECT/
+:: Link to site-  https://vaibhavraj1.github.io/SPORTS-COMPLEX-PROJECT/
 
-Hope you like my work.
+Hope you like this work.
 
 
 
